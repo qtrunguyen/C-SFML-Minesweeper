@@ -1,7 +1,7 @@
 # ABOUT THIS PROJECT
 ## Introduction
 
-Tetris game made with C++ and SFML library.
+Minesweeper game made with C++ and SFML library.
 
 ## Gameplay
 
