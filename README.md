@@ -1,7 +1,7 @@
 # ABOUT THIS PROJECT
 ## Introduction
 
-This is the first game I created using C++ and SFML library.
+Tetris game made with C++ and SFML library.
 
 ## Gameplay
 
